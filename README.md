@@ -1,5 +1,7 @@
 ## Hi, I'm Fawzia 
 
+## 🌍  I'm based in Saudi Arabia
+
 ## 👨‍💻 Quality Assurance & Quality Control Engineer
 
 Passionate about delivering high-quality software products through rigorous testing and continuous improvement. I specialize in creating and executing automated test scripts using Selenium, TestNG, and other cutting-edge tools. With a keen eye for detail, I ensure that every feature meets the highest standards of functionality, usability, and reliability.
@@ -15,6 +17,10 @@ CI/CD: Jenkins, GitHub Actions
 Bug Tracking: JIRA, Bugzilla
 Programming: Java, Python, SQL
 Test Management: TestNG, Maven   
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+                    </p>
+
 
 ## 🎯 Focus Areas:
 Automated Testing

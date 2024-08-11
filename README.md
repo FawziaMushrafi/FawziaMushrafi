@@ -1,4 +1,4 @@
-## Hi there  ,  👋
+## Hi, I'm Fawzia 
 
 ## 👨‍💻 Quality Assurance & Quality Control Engineer
 

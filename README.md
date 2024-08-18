@@ -1,6 +1,6 @@
 ## Hi, I'm Fawzia 
 
-## 🌍  I'm based in Saudi Arabia
+## 🌍  I'm  Saudi Arabia
 
 ## 👨‍💻 Quality Assurance & Quality Control Engineer
 
